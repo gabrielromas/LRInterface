@@ -1,0 +1,8 @@
+{
+  "type_of_leave": "Leaving Permision",
+  "from" : "senderEmail@gmail.com",
+  "to" : "receiverEmail@yahoo.com",
+  "password" : "senderPassword",
+  "start" : "2:00 PM",
+  "end" : "5:00 PM"
+}
